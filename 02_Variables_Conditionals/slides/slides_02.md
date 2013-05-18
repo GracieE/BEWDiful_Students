@@ -2,7 +2,7 @@
 
 #BEWD - Variables and Conditional Logic
 
-###Instructor Name
+###Gracie Elqurae
 
 Instructors current role.
 
